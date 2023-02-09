@@ -4,3 +4,7 @@
 
 
 https://prod.liveshare.vsengsaas.visualstudio.com/join?AE8CEA3D26F6B6B81160AF516F83714338CF
+
+<meta-data
+        android:name="flutterEmbedding"
+        android:value="2" />
